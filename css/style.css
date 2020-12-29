@@ -6757,7 +6757,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 5rem !important; }
+  padding-top: 3rem !important; }
 
 .pr-5,
 .px-5 {
@@ -8675,9 +8675,7 @@ h1, h2, h3, h4, h5,
     list-style: none;
     margin-bottom: 10px; }
     #navi li a {
-        color: #000000;
-        margin-left: -120px;
-    }
+      color: #000000; }
       #navi li a.current {
         color: #3e64ff;
         margin-left: 20px;

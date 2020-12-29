@@ -11,9 +11,9 @@ class App extends Component {
         return (
             <div className="App">
                 <div id="colorlib-page">
+                    <div id="container-wrap">
                     <Navigationbar>
                     </Navigationbar>
-                    <div id="container-wrap">
                         <div id="colorlib-main">
                             <Introduction></Introduction>
                             <About></About>

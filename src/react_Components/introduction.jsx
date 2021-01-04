@@ -19,7 +19,7 @@ export default class Introduction extends Component {
                                         <h2>I'm a <span
                                                 class="txt-rotate"
                                                 data-period="2000"
-                                                data-rotate='[ "Student.", "Coder.", "Investor." ]'>
+                                                data-rotate='[ "Student.", "Coder.", "Financial Investor." ]'>
                                             </span>
                                         </h2>
                                     </div>

@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Introduction extends Component {
     render() {
         return (
-
+            <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
             <section className="ftco-about img ftco-section ftco-no-pt ftco-no-pb" id="introduction-section">
                 <div>
 
@@ -19,7 +19,7 @@ export default class Introduction extends Component {
                                         <h2>I'm a <span
                                                 class="txt-rotate"
                                                 data-period="2000"
-                                                data-rotate='[ "Student.", "Coder.", "Financial Investor." ]'>
+                                                data-rotate='[ "Student.", "Coder.", "Stock Investor." ]'>
                                             </span>
                                         </h2>
                                     </div>
@@ -32,6 +32,7 @@ export default class Introduction extends Component {
 
 
                 </section>
+                </body>
         );
     }
 }

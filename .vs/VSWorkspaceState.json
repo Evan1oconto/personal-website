@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public\\css",
     "\\src",
     "\\src\\react_Components"
   ],
-  "SelectedNode": "\\src\\react_Components\\vscode_workspace.code-workspace",
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }

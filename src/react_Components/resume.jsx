@@ -27,8 +27,8 @@ export default class Resume extends Component {
                                         <div className="text pl-3">
                                             <span className="date">2019-2023</span>
                                             <h2>Bachelor of Science in Computer Science at Tufts University</h2>
-                                            <span className="position">GPA: 3.89</span>
-                                            <p>Related Coursework: Data Structures, Linear Algebra, Machine Structures and Programming, Intro to Cybersecurity</p>
+                                            <span className="position">GPA: 3.9</span>
+                                            <p>Data Structures, Web Programming, Machine Structures and Programming, Intro to Cybersecurity</p>
                                         </div>
                                     </div>
                                     <div className="resume-wrap d-flex animate-box">
@@ -50,9 +50,14 @@ export default class Resume extends Component {
                                             <span className="flaticon-ideas" />
                                         </div>
                                         <div className="text pl-3">
-                                            <span className="date">April 2020-August 2020</span>
-                                            <h2>Shaws Supermarkets </h2>
-                                            <span className="position">Produce Stocker/Sanitizer</span>
+                                            <span className="date">December 2020-Present</span>
+                                            <h2>Midior Consulting  </h2>
+                                            <span className="position">Web app developer</span>
+                                            <p>
+                                                Managed and added features to a web app for a data and finance-based tool for 
+                                                the North Atlantic States Carpenters. This included developing an add to homescreen 
+                                                button/banner so mobile users can add the web appt o their phone’s home screen easier.         
+                                            </p>
                                         </div>
                                     </div>
                                     <div className="resume-wrap d-flex animate-box">
@@ -60,9 +65,9 @@ export default class Resume extends Component {
                                             <span className="flaticon-ideas" />
                                         </div>
                                         <div className="text pl-3">
-                                            <span className="date">April 2019-August 2019</span>
-                                            <h2>Amherst Country Club</h2>
-                                            <span className="position">Grounds Maintenance</span>
+                                            <span className="date">April 2020-August 2020</span>
+                                            <h2>Shaws Supermarkets </h2>
+                                            <span className="position">Produce Stocker/Sanitizer</span>
                                         </div>
                                     </div>
                                     <div className="resume-wrap d-flex animate-box">
@@ -77,8 +82,42 @@ export default class Resume extends Component {
                                         </div>
                                     </div>
                                 </div>
+
                                 <div id="page-3" className="page three">
                                     <h2 className="heading">Projects</h2>
+                                    <div className="resume-wrap d-flex animate-box">
+                                        <div className="icon d-flex align-items-center justify-content-center">
+                                            <span className="flaticon-ideas" />
+                                        </div>
+                                        <div className="text pl-3">
+                                            <span className="date">December 2020-Present</span>
+                                            <h2>Personal Stock Trading Project </h2>
+                                            <span className="position">Python, SQL</span>
+                                            <p>
+                                                Designed an algorithm-based stock application to determine bear/bullish trends.
+                                                It primarily involves collecting/storing data through a SQL database, and
+                                                performing operations with python scripts.
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div className="resume-wrap d-flex animate-box">
+                                        <div className="icon d-flex align-items-center justify-content-center">
+                                            <span className="flaticon-ideas" />
+                                        </div>
+                                        <div className="text pl-3">
+                                            <span className="date">Fall 2020</span>
+                                            <h2>Universal Machine Project  </h2>
+                                            <span className="position">C</span>
+                                            <p>
+                                                Created a Universal Machine to emulate an assembly-based language and then went
+                                                through a profiling process. The initial design allowed 50 million instructions
+                                                to be executed in under 5 seconds. Then, through profiling, the final design 
+                                                was able to perform 50 million instructions in approximately a quater of a second.
+                                        </p>
+                                        </div>
+                                    </div>
+
                                     <div className="resume-wrap d-flex animate-box">
                                         <div className="icon d-flex align-items-center justify-content-center">
                                             <span className="flaticon-ideas" />
@@ -99,28 +138,6 @@ export default class Resume extends Component {
                                             <h2>Arduino Design Project</h2>
                                             <span className="position">C++</span>
                                             <p>Designed and coded an Arduino-based white noise generator for a design project. A final product and pitch resulted from several months of researching, creating blueprints, prototyping, and peer testing.</p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-wrap d-flex animate-box">
-                                        <div className="icon d-flex align-items-center justify-content-center">
-                                            <span className="flaticon-ideas" />
-                                        </div>
-                                        <div className="text pl-3">
-                                            <span className="date">June 2018-August 2018</span>
-                                            <h2>MIT Sponsored Electronic Capture the Flag</h2>
-                                            <span className="position">Java, C, Python</span>
-                                            <p>Participated in an Electronic Capture the Flag in part with BWSI. The ETCF involved architecting and prototyping a basic bank security protocol that worked with RSA and AES encryption packages, along with solving hacking-based problems.</p>
-                                        </div>
-                                    </div>
-                                    <div className="resume-wrap d-flex animate-box">
-                                        <div className="icon d-flex align-items-center justify-content-center">
-                                            <span className="flaticon-ideas" />
-                                        </div>
-                                        <div className="text pl-3">
-                                            <span className="date">September 2016-March 2019</span>
-                                            <h2>FIRST Robotics Coding Division</h2>
-                                            <span className="position">C++, Java</span>
-                                            <p>Was apart of my local robotics team. I Helped develop crucial robot functions over the course of several seasons by working on the loading and shooting functionality, and the autonomous section code.</p>
                                         </div>
                                     </div>
                                 </div>

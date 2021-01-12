@@ -8959,7 +8959,7 @@ h1, h2, h3, h4, h5,
           opacity: 1; }
           .project.img-2 .text span {
             color: rgba(255, 255, 255, 0.8); } }
-  .project .overlay {
+.project .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -8967,13 +8967,14 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: 0;
-    background: #3e64ff;
+    background: #dadff2;
     z-index: -1;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
-    transition: all 0.3s ease; }
+    transition: all 0.3s ease;
+}
     @media (max-width: 767.98px) {
       .project .overlay {
         opacity: .2; } }

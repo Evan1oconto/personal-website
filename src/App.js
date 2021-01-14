@@ -5,6 +5,7 @@ import Navigationbar from './react_Components/navigationbar'
 import Introduction from './react_Components/introduction'
 import Resume from './react_Components/resume'
 import Hobbies from './react_Components/hobbies'
+import Contact from './react_Components/connect'
 
 class App extends Component {
     render() {
@@ -19,6 +20,7 @@ class App extends Component {
                             <About></About>
                             <Resume></Resume>
                             <Hobbies></Hobbies>
+                            <Contact></Contact>
                         </div>
                     </div>
                 </div>

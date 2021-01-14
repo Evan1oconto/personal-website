@@ -25,8 +25,8 @@ export default class Navigationbar extends Component {
                                     <li className="nav-item"><a href="#introduction-section" className="nav-link"><span>Home</span></a></li>
                                     <li className="nav-item"><a href="#about-section" className="nav-link"><span>About</span></a></li>
                                     <li className="nav-item"><a href="#resume-section" className="nav-link"><span>Resume</span></a></li>
-                                    <li className="nav-item"><a href="#hobbies-section" className="nav-link"><span>Hobbies</span></a></li>
-                                    <li className="nav-item"><a href="#projects-section" className="nav-link"><span>Trips</span></a></li>
+                                    <li className="nav-item"><a href="#covid-section" className="nav-link"><span>Covid-Cope</span></a></li>
+                                    <li className="nav-item"><a href="#connect-section" className="nav-link"><span>Contact</span></a></li>
                                 </ul>
                             </div>
                         </div>

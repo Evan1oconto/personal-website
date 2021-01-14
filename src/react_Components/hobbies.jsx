@@ -4,12 +4,12 @@ export default class Hobbies extends Component {
 	render() {
         return (
             <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-                <section className="ftco-section ftco-project" id="hobbies-section">
+                <section className="ftco-section ftco-project" id="covid-section">
                     <div className="container-fluid px-md-0">
                         <div className="row no-gutters justify-content-center pb-5">
                             <div className="col-md-12 heading-section text-center">
-                                <h1 className="big big-2">Hobbies</h1>
-                                <h2 className="mb-4">My Hobbies</h2>
+                                <h1 className="big big-2">Covid Activities</h1>
+                                <h2 className="mb-4">My Covid Activities</h2>
                                 <p>Spending time in the great outdoors has been one of my favorite things to do during the covid 
                                     outbreak, so here are some of my adventures!</p>
                             </div>
@@ -26,7 +26,7 @@ export default class Hobbies extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4">
-                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors6.jpg)'}}>
+                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors6.JPG)'}}>
                                     <div className="overlay"></div>
                                     <div className="text text-center p-4">
                                         <h3 style={{ color: '#696261' }}>Here, I went backpacking through several of the Great Whites, hitting the North and South Twins, Bond and West Bond, 
@@ -37,7 +37,7 @@ export default class Hobbies extends Component {
                             </div>
 
                             <div className="col-md-4">
-                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors7.jpg)'}}>
+                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors7.JPG)'}}>
                                     <div className="overlay"></div>
                                     <div className="text text-center p-4">
                                         <h3 style={{ color: '#696261' }}>A couple of friends and I were playing a heated match of Spikeball, one of the socially-distancing
@@ -47,7 +47,7 @@ export default class Hobbies extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4">
-                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors2.jpg)'}}>
+                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors2.JPG)'}}>
                                     <div className="overlay"></div>
                                     <div className="text text-center p-4">
                                         <h3 style={{ color: '#696261' }}>This was the Precipice trail, one of the scariest trails at Acadia.
@@ -57,7 +57,7 @@ export default class Hobbies extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4">
-                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors4.jpg)'}}>
+                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors4.JPG)'}}>
                                     <div className="overlay"></div>
                                     <div className="text text-center p-4">
                                         <h3 style={{ color: '#696261' }}>In this picture, we found a quaint place to fish and watch the sun set.</h3>
@@ -66,10 +66,10 @@ export default class Hobbies extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4">
-                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors7.jpg)'}}>
+                                <div className="project img d-flex justify-content-center align-items-center" style={{ backgroundImage: 'url(images/Outdoors5.JPG)'}}>
                                     <div className="overlay"></div>
                                     <div className="text text-center p-4">
-                                        <h3 style={{ color: '#696261'}}>This was taken a couple of weeks after school had ended, and I wanted to flip into the summer!</h3>
+                                        <h3 style={{ color: '#696261'}}>This was taken a couple of weeks after school had ended, and I wanted to dive into the summer!</h3>
                                         <span>May, 2020</span>
                                     </div>
                                 </div>
